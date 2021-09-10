@@ -1,0 +1,15 @@
+{
+  "name": "gbm-test-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "businesscommunications": "^1.0.5",
+    "googleapis": "^85.0.0"
+  }
+}
